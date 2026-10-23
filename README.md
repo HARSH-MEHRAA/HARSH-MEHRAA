@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/HARSH-MEHRAA">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6D28D9,100:A78BFA&height=190&section=header&text=Harsh%20Mehra&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=Developer%20%7C%20Learning%20%26%20Productivity%20Tools&descAlignY=62&descSize=16" alt="Harsh Mehra — Developer, learning and productivity tools" />
-  </a>
+  <img src="assets/profile-banner.svg" alt="Harsh Mehra — Developer, learning and productivity tools" width="100%" />
   <br />
   <a href="https://github.com/HARSH-MEHRAA?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20my%20repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
